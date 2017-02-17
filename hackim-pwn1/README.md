@@ -17,3 +17,9 @@ OS: Linux(Ubuntu)
 | Stack | No canary found |
 | NX | NX disabled |
 | PIE | No PIE |
+
+# Exploit code
+[Link](https://github.com/n-agi/Wargames/blob/master/hackim-pwn1/solve.py)
+
+# Explaination
+TO BE ADDED
